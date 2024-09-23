@@ -1,4 +1,3 @@
-import chillerModel from "../model/user_data.model.js";
 import userModel from "../model/user_data.model.js";
 import addrsModel from "../model/address_data.model.js";
 
